@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/color-picker-app/static/css/main.07378dc3.chunk.css",
+    "main.js": "/color-picker-app/static/js/main.5557f10c.chunk.js",
+    "main.js.map": "/color-picker-app/static/js/main.5557f10c.chunk.js.map",
+    "runtime-main.js": "/color-picker-app/static/js/runtime-main.02141076.js",
+    "runtime-main.js.map": "/color-picker-app/static/js/runtime-main.02141076.js.map",
+    "static/css/2.255bfe08.chunk.css": "/color-picker-app/static/css/2.255bfe08.chunk.css",
+    "static/js/2.682704ac.chunk.js": "/color-picker-app/static/js/2.682704ac.chunk.js",
+    "static/js/2.682704ac.chunk.js.map": "/color-picker-app/static/js/2.682704ac.chunk.js.map",
+    "index.html": "/color-picker-app/index.html",
+    "static/css/2.255bfe08.chunk.css.map": "/color-picker-app/static/css/2.255bfe08.chunk.css.map",
+    "static/css/main.07378dc3.chunk.css.map": "/color-picker-app/static/css/main.07378dc3.chunk.css.map",
+    "static/js/2.682704ac.chunk.js.LICENSE.txt": "/color-picker-app/static/js/2.682704ac.chunk.js.LICENSE.txt",
+    "static/media/bg.c99d9e1b.svg": "/color-picker-app/static/media/bg.c99d9e1b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02141076.js",
+    "static/css/2.255bfe08.chunk.css",
+    "static/js/2.682704ac.chunk.js",
+    "static/css/main.07378dc3.chunk.css",
+    "static/js/main.5557f10c.chunk.js"
+  ]
+}
